@@ -3,3 +3,7 @@ plotly
 folium
 streamlit-folium
 scikit-learn
+streamlit
+pandas
+matplotlib
+prophet
